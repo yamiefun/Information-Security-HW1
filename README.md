@@ -1,5 +1,5 @@
 # Information Security HW 1
-Assignment 1 for Department of Information Management and Finance, NCTU.
+This repository is the assignment 1 for Department of Information Management and Finance, NCTU.
 
 ## Introduction
 This assignment includes two major parts. 
