@@ -1,6 +1,9 @@
 # Information Security HW 1
 This repository is the assignment 1 for Department of Information Management and Finance, NCTU.
 
+[Report](https://hackmd.io/@qAuHy4xqSx6CEV6YVNaGPw/Syq_hxtYD)
+[Instruction](https://hackmd.io/@qAuHy4xqSx6CEV6YVNaGPw/Bk8BbhqKD)
+
 ## Introduction
 This assignment includes two major parts. 
 + Part 1: task 1~4 is to implement 11 kinds of encryption algorithm and compare the speed of them.
