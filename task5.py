@@ -31,7 +31,8 @@ if __name__ == "__main__":
 
     # 6. verify
     print("Original key: {}".format(base64.b64encode(key).decode('utf-8')))
-    print("Guessed key:  {}".format(base64.b64encode(guess_key).decode('utf-8')))
+    print("Guessed key:  {}".format(base64.b64encode(guess_key).decode(
+                                    'utf-8')))
     if guess_key == key:
         print("Guessed key is correct.")
     else:
